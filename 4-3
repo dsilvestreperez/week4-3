@@ -1,0 +1,40 @@
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+    // enter ustring and enter
+        Console.WriteLine("ReverseString");
+
+        //creating string input
+        string userName = Console.ReadLine();
+
+        //value of variable for ReverseString
+        Console.WriteLine("string name is:" + userName);
+
+
+        // enter ustring and enter
+        Console.WriteLine("CountVowels");
+
+        //creating string input
+        string userName = Console.ReadLine();
+
+        //value of variable for RCountVowels
+        Console.WriteLine("string name is:" + userName);
+
+
+        // enter ustring and enter
+        Console.WriteLine("isPawlindrome");
+
+        //creating string input
+        string userName = Console.ReadLine();
+
+        //value of variable for isPawlindrome
+        Console.WriteLine("string name is:" + userName);
+
+
+
+
+    }
+}
